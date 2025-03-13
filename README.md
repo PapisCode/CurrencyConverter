@@ -38,3 +38,6 @@ The program supports conversion from USD to the following currencies:
 
 ```sh
 python CurrencyConversion.py
+```
+
+or in the top-right corner of VS Code, click the Run Python File
