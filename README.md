@@ -7,11 +7,11 @@ The following Python program converts USD (United States Dollar) into six differ
 The program also handles invalid inputs and provides a freindly user experience.
 
 ## Features
-[x] Displays available currency conversion options
-[x] Accepts user input and echoes their choice
-[x] Converts 100 USD to the selected currency
-[x] Handles invalid inputs gracefully
-[x] Displays an exit message
+- [x] Displays available currency conversion options
+- [x] Accepts user input and echoes their choice
+- [x] Converts 100 USD to the selected currency
+- [x] Handles invalid inputs gracefully
+- [x] Displays an exit message
 
 ## Supported currencies
 The program supports conversion from USD to the following currencies:
