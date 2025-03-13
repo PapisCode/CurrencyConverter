@@ -1,6 +1,12 @@
 # CurrencyConverter
 Assignment# 1 -Currency conversion using Python
 
+## Date
+March 13th, 2025
+
+## Affiliation
+Humber College - Fundamentals Numeric Comp - CPAN-112-RNA
+
 ## Description
 The following Python program converts USD (United States Dollar) into six different currencies based on user selection. The user is prompted to enter a choice (1-6), and the program converts 100 USD into the selected currency, displaying the equivalent amount.
 
